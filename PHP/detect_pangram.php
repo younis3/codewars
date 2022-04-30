@@ -1,3 +1,4 @@
+<?php
 // Detect Pangram
 // 6 kyu
 // https://www.codewars.com/kata/545cedaa9943f7fe7b000048
