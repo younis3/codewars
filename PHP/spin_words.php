@@ -1,3 +1,4 @@
+<?php
 // Stop gninnipS My sdroW!
 // 6 kyu
 // https://www.codewars.com/kata/5264d2b162488dc400000001
