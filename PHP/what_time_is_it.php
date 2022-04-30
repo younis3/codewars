@@ -1,3 +1,4 @@
+<?php
 // Clocky Mc Clock-Face
 // 6 kyu
 // https://www.codewars.com/kata/59752e1f064d1261cb0000ec
