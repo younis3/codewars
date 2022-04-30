@@ -1,3 +1,4 @@
+<?php
 // Josephus Permutation
 // 5 kyu
 // https://www.codewars.com/kata/5550d638a99ddb113e0000a2
