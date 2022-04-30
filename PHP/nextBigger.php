@@ -1,3 +1,4 @@
+<?php
 // Next bigger number with the same digits
 // 4 kyu
 // https://www.codewars.com/kata/55983863da40caa2c900004e
