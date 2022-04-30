@@ -1,3 +1,4 @@
+<?php
 // Find the divisors
 // 7 kyu
 // https://www.codewars.com/kata/544aed4c4a30184e960010f4
