@@ -1,3 +1,4 @@
+<?php
 // Points in the circle
 // 6 kyu
 // https://www.codewars.com/kata/5b55c49d4a317adff500015f
