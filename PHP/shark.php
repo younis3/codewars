@@ -1,3 +1,4 @@
+<?php
 // Holiday VI - Shark Pontoon
 // 8 kyu
 // https://www.codewars.com/kata/57e921d8b36340f1fd000059
